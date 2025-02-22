@@ -41,7 +41,7 @@ class Calculator {
         return 0;
     }
 
-    /*comment*/
+    /*commt*/
     /*
     Returns binary value of the given int number
     The binary number will be stored as a string
